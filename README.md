@@ -17,7 +17,13 @@
 <p align="center"> Projeto simples de arduino com sensor PIR e Buzzer
     <br> 
 </p>
- <img  height=300px src="https://user-images.githubusercontent.com/83460816/189487067-70b65b05-d68a-47e3-80e3-a3b5c2294de0.PNG" alt="Project logo">
+<div align="center">
+ <img  height=200px src="https://user-images.githubusercontent.com/83460816/189487067-70b65b05-d68a-47e3-80e3-a3b5c2294de0.PNG" alt="circuit">
+ <img  height=200px src="https://user-images.githubusercontent.com/83460816/189487222-46a59a2e-3efe-4ae9-878b-ed857ef053e3.PNG" alt="blocks">
+ <img  height=100px src="https://user-images.githubusercontent.com/83460816/189487258-dd7c47cc-1aec-49ec-8670-6e13994eb5f3.PNG" alt="materials">
+ <img  height=200px src="https://user-images.githubusercontent.com/83460816/189487287-84b6449b-e505-49cb-8871-9c24aa46aaa4.PNG" alt="schema">
+</div>
+ 
 ## 📝 Table of Contents
 
 - [About](#about)
