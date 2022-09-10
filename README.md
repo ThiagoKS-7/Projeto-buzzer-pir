@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://user-images.githubusercontent.com/83460816/189487067-70b65b05-d68a-47e3-80e3-a3b5c2294de0.PNG" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Arduino PIR Buzzer</h3>
 
 <div align="center">
 
